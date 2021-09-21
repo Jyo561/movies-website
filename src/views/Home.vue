@@ -169,7 +169,7 @@ export default {
 					.type{
 						position: absolute;
 						padding: 8px 16px;
-						background-color: #42B883;
+						background-color: #240090;
 						color: #FFF;
 						bottom: 20px;
 						left: 0px;

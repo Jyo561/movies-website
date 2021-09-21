@@ -39,7 +39,7 @@ header {
 		font-size: 28px;
 
 		span{
-			color: #006400;
+			color: #00FA9A;
 		}
 	}
 }
