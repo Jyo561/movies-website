@@ -131,7 +131,7 @@ export default {
 			&[type="submit"] {
 				width: 100%;
 				max-width: 200px;
-				background-color: #42B883;
+				background-color: #05386B;
 				padding: 16px;
 				border-radius: 8px;
 				color: #FFF;
