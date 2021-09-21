@@ -112,7 +112,7 @@ export default {
 			&[type="text"] {
 				width: 100%;
 				color: #FFF;
-				background-color: #5CDB95;
+				background-color: #190061;
 				font-size: 20px;
 				padding: 10px 16px;
 				border-radius: 8px;
@@ -131,7 +131,7 @@ export default {
 			&[type="submit"] {
 				width: 100%;
 				max-width: 200px;
-				background-color: #05386B;
+				background-color: #0C0032;
 				padding: 16px;
 				border-radius: 8px;
 				color: #FFF;
