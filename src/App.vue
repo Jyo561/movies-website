@@ -20,7 +20,7 @@
 	}
 }
 body{
-	background-color: #05386B;
+	background-color: #5CDB95;
 }
 
 a {
