@@ -31,7 +31,7 @@ header {
 	align-items: center;
 	justify-content: center;
 	padding: 10px 16px;
-	background-color: #2C3D4E;
+	background-color: #F8F8FF;
 	box-shadow: 0px 0px 6px rgba(0,0,0,0.1);
 
 	h1{
