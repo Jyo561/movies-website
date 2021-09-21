@@ -40,7 +40,7 @@ export default {
 	padding: 16px;
   align-items: center;
 	h2{
-		color: #E0FFFF;
+		color: #8FBCBF;
 		font-size: 28px;
 		font-weight:600;
 		margin-bottom: 16px;
