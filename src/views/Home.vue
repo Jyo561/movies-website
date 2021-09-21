@@ -112,7 +112,7 @@ export default {
 			&[type="text"] {
 				width: 100%;
 				color: #FFF;
-				background-color: #496583;
+				background-color: #5CDB95;
 				font-size: 20px;
 				padding: 10px 16px;
 				border-radius: 8px;
