@@ -5,7 +5,7 @@
 		<img :src="movie.Poster" alt="Movie Poster" class="featured-img" />
 		<br>
 		<h4 class="linew">Rated:{{ movie.Rated }}</h4>
-		<h3 class="linew" style="margin-left:20px">Rating:{{ movie.imdbRating }}</h3>
+		<h3 class="linew" style="margin-left:20px">Rating:<span style="color:#FFD700">{{ movie.imdbRating }}</span></h3>
 		<p>{{ movie.Plot }}</p>
 	</div>
 </template>
