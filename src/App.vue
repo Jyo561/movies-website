@@ -20,7 +20,7 @@
 	}
 }
 body{
-	background-color: #5CDB95;
+	background-color: #379683;
 }
 
 a {
@@ -31,7 +31,7 @@ header {
 	align-items: center;
 	justify-content: center;
 	padding: 10px 16px;
-	background-color: #379683;
+	background-color: #5CDB95;
 	box-shadow: 0px 0px 6px rgba(0,0,0,0.1);
 
 	h1{
