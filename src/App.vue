@@ -35,11 +35,11 @@ header {
 	box-shadow: 0px 0px 6px rgba(0,0,0,0.1);
 
 	h1{
-		color: #FFF;
+		color: #FFF8DC;
 		font-size: 28px;
 
 		span{
-			color: #42B883;
+			color: #006400;
 		}
 	}
 }
