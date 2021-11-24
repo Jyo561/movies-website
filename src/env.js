@@ -1,3 +1,3 @@
 export default {
-	apikey: "c6b66ed"
+	apikey: "{{Put your Own Key}}"
 }
